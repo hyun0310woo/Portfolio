@@ -12,7 +12,6 @@ function Skills() {
             </div>
             <h1>Hello!</h1>
             <h1>I'm Web Developer</h1>
-            <p>What are you waiting for?</p>
             
             
         </div>
